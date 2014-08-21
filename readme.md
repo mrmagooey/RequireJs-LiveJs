@@ -2,7 +2,9 @@
 
 Just include Live.js and it will monitor the current page including local CSS and Javascript by sending consecutive HEAD requests to the server. Changes to CSS will be applied dynamically and HTML or Javascript changes will reload the page. Try it!
 
+# Install 
 
+    bower install requirejs-livejs
 
 # Use
 
@@ -11,7 +13,7 @@ Add liveJs to your requirejs dependencies, then include a separate call to requi
     requirejs.config({
         baseUrl: '/src',
         paths:{
-            livejs: '/bower_components/live/live'
+            livejs: '/bower_components/requirejs-livejs/livejs'
         },
     });
     
