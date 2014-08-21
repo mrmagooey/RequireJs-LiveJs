@@ -28,6 +28,6 @@ This ensures that liveJs can see all the modules that requirejs has loaded.
 
 Live.js works in Firefox, Chrome, Safari, Opera and IE6+ until proven otherwise. Live.js is independent of the development framework or language you use, whether it be Ruby, Handcraft, Python, Django, NET, Java, Php, Drupal, Joomla or what-have-you.
 
-# History?
+# History
 
 Live.js was written by Martin Kool as the next step in Handcraft's design in the browser strategy. 
