@@ -1,0 +1,26 @@
+{
+  "name": "RequireJs-LiveJS",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mrmagooey/RequireJs-LiveJS",
+  "description": "Automatically reload changes to css/js and requirejs modules",
+  "main": "live.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "reload",
+    "live",
+    "requirejs"
+  ],
+  "authors": [
+    "mrmagooey"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
